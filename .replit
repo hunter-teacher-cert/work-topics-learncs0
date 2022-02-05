@@ -1,0 +1,19 @@
+
+from flask import Flask, render_template
+
+import random
+
+app = Flask(__name__)
+
+@app.route("/rand")
+def randomnumber():
+  i = random.randrange(100)
+  return render_template("lucky.html",number = i)
+
+@app.route("/")
+def index():
+  //display-the code is getting info from template
+  return "<h1>Hello World from my computer !</h1>"
+
+//location of the computer - api
+app.run(host="0.0.0.0",port=5000,debug=True)
