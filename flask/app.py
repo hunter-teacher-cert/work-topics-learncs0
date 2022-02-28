@@ -10,7 +10,7 @@ app.secret_key="something"
 # data to a template
 @app.route("/rand")
 def randomnumber():
-  i = random.randrange(100)
+  i = random.randrange(1000, 2000)
   return render_template("lucky.html",number = i )
 
 # the "root" route
