@@ -1,6 +1,6 @@
 
-{% if name != ""%}
-<h1> Greetings {{name}}</h1>
+{% if flav != ""%}
+<h1> Ice Cream Selection {{flav}}</h1>
 {% else %}
 <h1>Please log in </h1>
 {% endif %}
@@ -8,15 +8,15 @@
 
 <h1>{{error}}</h1>
 <form method="POST">
-Enter your name: 
-<input name="username">
-<br><h1>Sample form</h1>
+Enter your ice cream flavor: 
+<input flav="ice cream flavor">
+<br><h1>Ice Cream Selector</h1>
 
-Enter password:
+Enter your topping:
 <input name="password">
 <button>SUBMIT</button>
 </form>
 
 <a href="/">Go Home</a>
 
-<h1>The bottom of the form page</h1>
+<h1>Enjoy your ice cream</h1>

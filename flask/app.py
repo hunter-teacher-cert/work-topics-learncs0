@@ -11,7 +11,7 @@ app.secret_key="something"
 @app.route("/rand")
 def randomnumber():
   i = random.randrange(1000, 2000)
-  return render_template("lucky.html",number = i )
+  return render_template("lucky.html",number = i/3)
 
 # the "root" route
 @app.route("/")
@@ -40,9 +40,10 @@ def form_demo():
   else:
     # here we clicked the button
     # so we can check the form data
-    name = request.form['username']
-    pw = request.form['password']
-    print(name,pw)
+    flav = request.form['ice cream flavor']
+    top = request.form['ice cream topping']
+    sml = request.form['ice cream size']
+    print(flav,top, sml,)
     if pw != "12345":
       # can change error message to: try again
       error = "BAD PASSWORD"
