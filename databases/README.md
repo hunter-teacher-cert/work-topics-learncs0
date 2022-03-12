@@ -1,4 +1,4 @@
-# I worked with Eduardo and Mamudu and looked at student repos and YouTube videos to get this done
+####I worked with Eduardo and Mamudu and looked at student repos and YouTube videos to get this done
 https://www.youtube.com/watch?v=HXV3zeQKqGY sql
 https://www.youtube.com/watch?v=inN8seMm7UI colab
 https://colab.research.google.com/drive/1w4sxF_wuovO56QOlYW59StJw6Wnutqxr?usp=sharing 
