@@ -17,14 +17,14 @@ def simple_sentence():
 
 def compound_sentence():
 #     # add code here
-return independent_clause() + " " + random.choice(conjunctions) + " " + independent_clause() + "."
+  return independent_clause() + " " + random.choice(conjunctions) + " " + independent_clause() + "."
 def complex_sentence():
 #     # add code here
-return dependent_clause() + "," + independent_clause() + "."
+  return dependent_clause() + "," + independent_clause() + "."
 
 def compound_complex_sentence():
 #     # add code here
-return dependent_clause() + "," + independent_clause() + " " + random.choice(conjunctions) + " " + indepndent_clause() + "."
+  return dependent_clause() + "," + independent_clause() + " " + random.choice(conjunctions) + " " + independent_clause() + "."
 
 if __name__ == "__main__":
     #test print for simple sentence
