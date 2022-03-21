@@ -1,3 +1,6 @@
+#lab Qs:  pros:  teaches grammar and syntax cons and helps with language learning/patterns/relationships:  require preteaching types of sentences
+
+
 import random
 
 articles = ["a", "the", "one", "some"]
