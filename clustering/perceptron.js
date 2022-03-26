@@ -1,6 +1,6 @@
 //michele- mamudu- eduardo
 //worked together
-//checked other repos for guidance - Daina - Peter - Tiffany
+//checked other repos for guidance - Daiana - Peter - Tiffany
 
 
 //https://www.youtube.com/watch?v=-KLnurhX-Pg
