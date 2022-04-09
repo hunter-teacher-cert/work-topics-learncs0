@@ -1,5 +1,5 @@
 #### CIPHER PKE ASYNC: 
-How The Media Are Using Encryption Tools To Collect Anonymous Tips by Sam Sanders  February 27, 2017 
+- How The Media Are Using Encryption Tools To Collect Anonymous Tips by Sam Sanders  February 27, 2017 
 Hacker Lexicon: What Is the Signal Encryption Protocol? By Andy Greenberg NOV 29, 2020
 https://signal.org/ 
 Whistleblowers used to rely on the Postal Service, pay phone, or an underground parking garage to leak to the press. Now news organizations use multiple high-tech ways for the public to send them anonymous tips.  Encrypted messaging apps include Signal, PGP (or GPG) and SecureDrop. 
