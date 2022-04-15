@@ -1,4 +1,4 @@
-##### Behind the crypto hype is an ideology of social change by Rick Wash
+### Behind the crypto hype is an ideology of social change by Rick Wash
 https://theconversation.com/behind-the-crypto-hype-is-an-ideology-of-social-change-177981 
 
 1. There’s a group of crypto enthusiasts who call themselves “True Bitcoiners” that talk about trust and corruption; an inevitable flaw in humanity and leads to trying to control and mistreat others.They see Bitcoin, blockchain and other crypto technologies as an alternative to corruption that don’t depend on institutions.   They want to change who has power and who doesn’t.  
