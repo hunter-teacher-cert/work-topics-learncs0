@@ -1,0 +1,20 @@
+https://www.npr.org/2019/10/13/769848647/solving-the-challenges-to-counting-forest-elephants
+##### Neural Networks are used in the real world to solve problems
+Conservation Metrics builds neural networks (cluster and classify things like the interconnected structures of the brain) for conservationists.
+Cornell University's Elephant Listening Project is using neural networks in hopes of saving forest elephants from poachers (forest elephants live in very dense central African rainforests and are therefore incredibly hard to spot). 
+Researchers turned their sound recordings into a spectrogram (picture of the soundwave) and fed those pictures into a neural network to see if it could find locations and counts of birds and elephants.
+This work is necessary, ethical and helpful because it saves time and quickly identifies locations of animals/organisms that need protection.
+
+#####response 1 
+In additional to a set of model parameters, a diverse workforce could add other variables that a homogeneous workforce may not consider and create a robust decision making team ;  this could also add more workers.
+
+#####response 2
+There were a lot of articles on neural net applications in medicine;  I also wonder how healthcare will transform as a result of neural nets. In this example, diagnosing and treating colorectal cancer can now be done with a web based expert dataset.  https://www.nature.com/articles/s41598-022-08958-8
+
+#####response 3
+On a related note to the issue of transfer of personal information - the National Institutes of Health’s Nutrition for Precision Health research program is working to develop algorithms to predict individual responses to food (Ravindran, 2022).  The apps ​​match a diet to an individual’s blood sugar, height, weight, medical conditions, microbiome and metabolism.  
+https://www.nytimes.com/2022/03/14/well/eat/ai-diet-personalized.html
+Neural Net Applications:
+Research ways that Neural Networks are used in the real world to solve problems. Choose 1 article describing a real-life application of Neural Networks.
+Consider if using a Neural Net to solve this problem is necessary, ethical, helpful vs harmful, effective etc. Summarize your thoughts on this question and post in the Slack async channel, along with a link to the article you found.
+Respond to posts from at least 3 of our classmates.
