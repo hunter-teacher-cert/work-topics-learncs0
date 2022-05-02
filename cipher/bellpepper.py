@@ -1,5 +1,5 @@
 #Mamudu, Eduardo and Michele worked together
-
+#In bellpepper.py, complete the encrypt function in the Caesar Cipher starter code from class. Add code to encrypt lowercase letters as well.
 def encrypt(text, s):
     result = ""
     # traverse the plain text
