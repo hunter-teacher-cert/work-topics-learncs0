@@ -1,4 +1,6 @@
 #Mamudu, Eduardo and Michele worked together
+#In bellpepper.py, complete the encrypt function in the Caesar Cipher starter code from class. Add code to encrypt lowercase letters as well.
+#Homework (choose one) - bell pepper - Write the decryption function of a caesar cipher from the starter code given in class
 
 def encrypt(text, s):
     result = ""
